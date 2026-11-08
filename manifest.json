@@ -1,0 +1,12 @@
+
+{
+  "name": "Mi Control - Administración financiera",
+  "short_name": "Mi Control",
+  "description": "Administración y control financiero personal",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5f9",
+  "theme_color": "#172B4D"
+}
